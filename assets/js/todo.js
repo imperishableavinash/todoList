@@ -15,6 +15,6 @@ $("Input[type='text']").keypress(function() {
     }
 })
 
-$(".fa-plus").click(function() {
-    $("input[type = 'text'").fadeToggle();
+$(".clickfaplus").click(function() {
+    $("input[type='text']").fadeToggle();
 })
